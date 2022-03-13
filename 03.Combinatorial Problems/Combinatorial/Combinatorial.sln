@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combinatorial", "Combinatorial\Combinatorial.csproj", "{46863FCD-8525-433A-84D7-1DAEE4068801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation", "Permutation\Permutation.csproj", "{58E7ACF1-E373-44DB-A1F7-329A058F9DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationOpt", "..\PermutationOpt\PermutationOpt.csproj", "{C8FF2A59-A5D9-45B0-B377-82E671640253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationWithRepetition", "..\PermutationWithRepetition\PermutationWithRepetition.csproj", "{BD2EEF0F-2613-4841-A6D2-4235BC5E7928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variation", "..\Variation\Variation.csproj", "{EAAF788A-212F-4C98-8A04-5F3023FCD501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaskalTriangle", "..\PaskalTriangle\PaskalTriangle.csproj", "{07B10DAA-EDD1-4671-A87A-7CC45E84235B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46863FCD-8525-433A-84D7-1DAEE4068801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46863FCD-8525-433A-84D7-1DAEE4068801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46863FCD-8525-433A-84D7-1DAEE4068801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46863FCD-8525-433A-84D7-1DAEE4068801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E7ACF1-E373-44DB-A1F7-329A058F9DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E7ACF1-E373-44DB-A1F7-329A058F9DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E7ACF1-E373-44DB-A1F7-329A058F9DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E7ACF1-E373-44DB-A1F7-329A058F9DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FF2A59-A5D9-45B0-B377-82E671640253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FF2A59-A5D9-45B0-B377-82E671640253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FF2A59-A5D9-45B0-B377-82E671640253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FF2A59-A5D9-45B0-B377-82E671640253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2EEF0F-2613-4841-A6D2-4235BC5E7928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2EEF0F-2613-4841-A6D2-4235BC5E7928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2EEF0F-2613-4841-A6D2-4235BC5E7928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2EEF0F-2613-4841-A6D2-4235BC5E7928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAF788A-212F-4C98-8A04-5F3023FCD501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAF788A-212F-4C98-8A04-5F3023FCD501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAF788A-212F-4C98-8A04-5F3023FCD501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAF788A-212F-4C98-8A04-5F3023FCD501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B10DAA-EDD1-4671-A87A-7CC45E84235B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B10DAA-EDD1-4671-A87A-7CC45E84235B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B10DAA-EDD1-4671-A87A-7CC45E84235B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B10DAA-EDD1-4671-A87A-7CC45E84235B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {162A239B-4C6B-4C74-9BF1-E00FD2D576F9}
+	EndGlobalSection
+EndGlobal
